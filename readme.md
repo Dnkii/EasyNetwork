@@ -1,7 +1,3 @@
----
-typora-root-url: E:\bwork\Learning\EasyNetwork
----
-
 # Easy Network
 
 
